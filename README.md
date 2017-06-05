@@ -4,6 +4,8 @@ In this project, I build a convolutional neural network (CNN) that can classify 
 
 If you'd like to use this notebook to do any re-training on the dataset you can grab it at the links below. 
 
-Dog Images: wget https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip; unzip dogImages.zip; rm dogImages.zip
+## Dog Images
+wget https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip; unzip dogImages.zip; rm dogImages.zip
 
-Human Images: wget http://vis-www.cs.umass.edu/lfw/lfw.tgz; tar -xvzf lfw.tgz; rm lfw.tgz
+## Human Images
+wget http://vis-www.cs.umass.edu/lfw/lfw.tgz; tar -xvzf lfw.tgz; rm lfw.tgz
